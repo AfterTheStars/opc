@@ -1,0 +1,84 @@
+[
+  {
+    "Id": "7d8e59c2-79b8-4d6f-9583-407dc0348e12",
+    "Name": "示例OPC服务器",
+    "EndpointUrl": "opc.tcp://localhost:11033",
+    "UseSecurity": false,
+    "UserName": null,
+    "Password": null,
+    "ReconnectInterval": 5000,
+    "AutoConnect": true,
+    "Tags": [
+      {
+        "Id": "0a4f0073-f436-4de2-8539-42e5af2ee53f",
+        "Name": "温度传感器1",
+        "NodeId": "ns=2;s=Temperature1",
+        "Description": "1号生产线温度",
+        "SamplingInterval": 1000,
+        "IsActive": true,
+        "DataType": "Double",
+        "CurrentValue": null,
+        "LastUpdateTime": null,
+        "Unit": "°C",
+        "MinValue": 0.0,
+        "MaxValue": 100.0
+      },
+      {
+        "Id": "cc03949f-5bc7-4a61-9ee8-2ab8a1dd0f40",
+        "Name": "压力传感器1",
+        "NodeId": "ns=2;s=Pressure1",
+        "Description": "1号生产线压力",
+        "SamplingInterval": 1000,
+        "IsActive": true,
+        "DataType": "Double",
+        "CurrentValue": null,
+        "LastUpdateTime": null,
+        "Unit": "Bar",
+        "MinValue": 0.0,
+        "MaxValue": 10.0
+      },
+      {
+        "Id": "e6bf6441-1f98-47e5-90b8-c7d7cae24179",
+        "Name": "流量计1",
+        "NodeId": "ns=2;s=Flow1",
+        "Description": "1号生产线流量",
+        "SamplingInterval": 2000,
+        "IsActive": true,
+        "DataType": "Double",
+        "CurrentValue": null,
+        "LastUpdateTime": null,
+        "Unit": "L/min",
+        "MinValue": 0.0,
+        "MaxValue": 500.0
+      },
+      {
+        "Id": "e9676b8f-eacd-4792-a6ee-3a8187517e1f",
+        "Name": "设备状态",
+        "NodeId": "ns=2;s=MachineStatus",
+        "Description": "设备运行状态",
+        "SamplingInterval": 5000,
+        "IsActive": true,
+        "DataType": "Boolean",
+        "CurrentValue": null,
+        "LastUpdateTime": null,
+        "Unit": null,
+        "MinValue": null,
+        "MaxValue": null
+      },
+      {
+        "Id": "eeff8a51-f9e8-4cc5-a714-041822c1a70a",
+        "Name": "产品计数",
+        "NodeId": "ns=2;s=ProductCount",
+        "Description": "生产产品数量",
+        "SamplingInterval": 1000,
+        "IsActive": true,
+        "DataType": "Int32",
+        "CurrentValue": null,
+        "LastUpdateTime": null,
+        "Unit": null,
+        "MinValue": null,
+        "MaxValue": null
+      }
+    ]
+  }
+]

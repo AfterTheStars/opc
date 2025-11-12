@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\code\\dotnet\\OPC\\OPC\\OPC.csproj": {}
+    "E:\\SC\\个人资料\\opc\\OPC\\OPC.csproj": {}
   },
   "projects": {
-    "E:\\code\\dotnet\\OPC\\OPC\\OPC.csproj": {
+    "E:\\SC\\个人资料\\opc\\OPC\\OPC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\code\\dotnet\\OPC\\OPC\\OPC.csproj",
+        "projectUniqueName": "E:\\SC\\个人资料\\opc\\OPC\\OPC.csproj",
         "projectName": "OPC",
-        "projectPath": "E:\\code\\dotnet\\OPC\\OPC\\OPC.csproj",
+        "projectPath": "E:\\SC\\个人资料\\opc\\OPC\\OPC.csproj",
         "packagesPath": "C:\\Users\\www90\\.nuget\\packages\\",
-        "outputPath": "E:\\code\\dotnet\\OPC\\OPC\\obj\\",
+        "outputPath": "E:\\SC\\个人资料\\opc\\OPC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\www90\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,29 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua": {
+              "target": "Package",
+              "version": "[1.4.372.56, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Client": {
+              "target": "Package",
+              "version": "[1.4.372.56, )"
+            },
+            "OPCFoundation.NetStandard.Opc.Ua.Configuration": {
+              "target": "Package",
+              "version": "[1.4.372.56, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

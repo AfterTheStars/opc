@@ -1,40 +1,31 @@
-﻿using OPC.Controllers;
-using OPC;
-using OPC.Services;
-
+﻿using OPC.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ==================== 服务注册 ====================
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-// 添加HttpClient工厂
 builder.Services.AddHttpClient();
-
-// 添加SignalR
 builder.Services.AddSignalR();
 
-// 👇 添加 OPC UA 服务
-// 这是关键：注册 OPC 服务器为单例
+// 注册 OPC UA 服务器为单例
 builder.Services.AddSingleton<OpcUaServer>();
 
-// 添加CORS策略
+// 添加 CORS
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll",
-        builder =>
-        {
-            builder.AllowAnyOrigin()
+    options.AddPolicy("AllowAll", corsBuilder =>
+    {
+        corsBuilder.AllowAnyOrigin()
                    .AllowAnyMethod()
                    .AllowAnyHeader();
-        });
+    });
 });
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ==================== 中间件配置 ====================
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -44,69 +35,52 @@ if (app.Environment.IsDevelopment())
 app.UseCors("AllowAll");
 app.UseRouting();
 app.UseAuthorization();
+
+// ==================== 路由配置 ====================
 app.MapControllers();
 
-// 添加健康检查端点
-app.MapGet("/health", () => Results.Ok(new { status = "Healthy", timestamp = DateTime.UtcNow }));
+// 健康检查端点
+app.MapGet("/health", () =>
+    Results.Ok(new { status = "Healthy", timestamp = DateTime.UtcNow }));
 
-// 添加根路径重定向到Swagger
-app.MapGet("/", () => Results.Redirect("/swagger"));
+// 根路径重定向
+app.MapGet("/", () => Results.Redirect("/swagger"))
+    .WithName("Root");
 
-// 👇 OPC 服务生命周期管理（添加这段代码）
-try
+// ==================== OPC UA 服务器生命周期管理 ====================
+var lifetime = app.Services.GetRequiredService<IHostApplicationLifetime>();
+var opcServer = app.Services.GetRequiredService<OpcUaServer>();
+
+// 应用启动完成时启动 OPC 服务器
+lifetime.ApplicationStarted.Register(async () =>
 {
-    var opcServer = app.Services.GetRequiredService<OpcUaServer>();
-    var lifetime = app.Services.GetRequiredService<IHostApplicationLifetime>();
-
-    // 应用启动完成时启动 OPC 服务器
-    lifetime.ApplicationStarted.Register(async () =>
+    try
     {
-        try
-        {
-            Console.WriteLine("");
-            Console.WriteLine("╔════════════════════════════════════════════════════════════════╗");
-            Console.WriteLine("║  正在启动 OPC UA 服务器...                                       ║");
-            Console.WriteLine("╚════════════════════════════════════════════════════════════════╝");
-            
-            await opcServer.StartAsync();
-            
-            Console.WriteLine("");
-            Console.WriteLine("╔════════════════════════════════════════════════════════════════╗");
-            Console.WriteLine("║  🚀 OPC UA 服务器启动成功！                                      ║");
-            Console.WriteLine("║                                                                ║");
-            Console.WriteLine("║  📡 OPC UA 地址:    opc.tcp://localhost:4840                   ║");
-            Console.WriteLine("║  🌐 REST API:      http://localhost:5001/api/opcdata/all      ║");
-            Console.WriteLine("║  📊 Swagger:       http://localhost:5001/swagger               ║");
-            Console.WriteLine("╚════════════════════════════════════════════════════════════════╝");
-            Console.WriteLine("");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"[错误] OPC UA 服务器启动失败: {ex.Message}");
-            Console.WriteLine($"详情: {ex.InnerException?.Message}");
-        }
-    });
-
-    // 应用关闭时停止 OPC 服务器
-    lifetime.ApplicationStopping.Register(async () =>
+        await opcServer.StartAsync();
+    }
+    catch (Exception ex)
     {
-        try
-        {
-            Console.WriteLine("");
-            Console.WriteLine("[信息] 正在关闭 OPC UA 服务器...");
-            await opcServer.StopAsync();
-            Console.WriteLine("[信息] OPC UA 服务器已关闭");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"[错误] OPC UA 服务器关闭失败: {ex.Message}");
-        }
-    });
-}
-catch (Exception ex)
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine($"[致命错误] OPC UA 服务器启动失败: {ex.Message}");
+        Console.ResetColor();
+    }
+});
+
+// 应用关闭时停止 OPC 服务器
+lifetime.ApplicationStopping.Register(async () =>
 {
-    Console.WriteLine($"[警告] OPC 服务配置异常: {ex.Message}");
-}
-// 👆 OPC 生命周期管理代码添加完成
+    try
+    {
+        await opcServer.StopAsync();
+        opcServer.Dispose();
+    }
+    catch (Exception ex)
+    {
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine($"[错误] OPC UA 服务器关闭失败: {ex.Message}");
+        Console.ResetColor();
+    }
+});
 
+// ==================== 启动应用 ====================
 app.Run();

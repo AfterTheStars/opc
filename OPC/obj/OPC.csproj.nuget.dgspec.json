@@ -54,15 +54,15 @@
             },
             "OPCFoundation.NetStandard.Opc.Ua": {
               "target": "Package",
-              "version": "[1.4.372.56, )"
+              "version": "[1.5.377.21, )"
             },
             "OPCFoundation.NetStandard.Opc.Ua.Client": {
               "target": "Package",
-              "version": "[1.4.372.56, )"
+              "version": "[1.5.377.21, )"
             },
-            "OPCFoundation.NetStandard.Opc.Ua.Configuration": {
+            "OPCFoundation.NetStandard.Opc.Ua.Server": {
               "target": "Package",
-              "version": "[1.4.372.56, )"
+              "version": "[1.5.377.21, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

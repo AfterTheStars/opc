@@ -54,7 +54,7 @@
             },
             "OPCFoundation.NetStandard.Opc.Ua": {
               "target": "Package",
-              "version": "[1.5.377.21, )"
+              "version": "[1.4.362.42, )"
             },
             "OPCFoundation.NetStandard.Opc.Ua.Client": {
               "target": "Package",

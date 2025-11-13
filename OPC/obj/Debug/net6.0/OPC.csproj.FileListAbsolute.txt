@@ -44,7 +44,13 @@ E:\SC\个人资料\opc\OPC\obj\Debug\net6.0\OPC.pdb
 E:\SC\个人资料\opc\OPC\obj\Debug\net6.0\OPC.genruntimeconfig.cache
 E:\SC\个人资料\opc\OPC\obj\Debug\net6.0\ref\OPC.dll
 E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\BitFaster.Caching.dll
-E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
 E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\System.ServiceModel.dll
+E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\SC\个人资料\opc\OPC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll

@@ -1,7 +1,10 @@
 ﻿using Opc.Ua;
+using Opc.Ua.Configuration;
 using Opc.Ua.Server;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -9,11 +12,12 @@ namespace OPC.Services
 {
     /// <summary>
     /// OPC UA 服务器实现 - 完全兼容 OPC UA 1.5.377.21
-    /// 经过验证和测试
+    /// ✅ 已修复：使用ApplicationInstance和CheckApplicationInstanceCertificate正确加载证书
     /// </summary>
     public class OpcUaServer : IDisposable
     {
         private StandardServer _server;
+        private ApplicationInstance _applicationInstance;
         private ApplicationConfiguration _configuration;
         private OpcNodeManager _nodeManager;
         private CancellationTokenSource _cancellationTokenSource;
@@ -46,28 +50,51 @@ namespace OPC.Services
                 LogInfo("════════════════════════════════════════");
 
                 // 1. 确保证书目录存在
-                LogInfo("[1/5] 创建证书目录...");
+                LogInfo("[1/7] 创建证书目录...");
                 EnsureDirectoriesExist("OPC.Certificates");
                 LogSuccess("证书目录已准备");
 
                 // 2. 创建应用配置
-                LogInfo("[2/5] 创建应用配置...");
+                LogInfo("[2/7] 创建应用配置...");
                 _configuration = CreateApplicationConfiguration();
                 LogSuccess("应用配置已创建");
 
-                // 3. 验证配置
-                LogInfo("[3/5] 验证应用配置...");
+                // 3. 创建 ApplicationInstance
+                LogInfo("[3/7] 创建应用实例...");
+                _applicationInstance = new ApplicationInstance
+                {
+                    ApplicationName = "OPC UA 数据服务器",
+                    ApplicationType = ApplicationType.Server,
+                    ApplicationConfiguration = _configuration
+                };
+                LogSuccess("应用实例已创建");
+
+                // 4. 检查和创建应用实例证书
+                LogInfo("[4/7] 检查并创建应用实例证书...");
+                bool certOk = await _applicationInstance.CheckApplicationInstanceCertificates(false, 0);
+                if (!certOk)
+                {
+                    throw new InvalidOperationException("应用实例证书验证失败");
+                }
+                LogSuccess("应用实例证书已验证");
+
+                // 5. 验证配置
+                LogInfo("[5/7] 验证应用配置...");
                 await _configuration.Validate(ApplicationType.Server);
                 LogSuccess("配置验证完成");
 
-                // 4. 创建并启动服务器
-                LogInfo("[4/5] 启动 OPC UA 服务器...");
+                // 6. 创建服务器实例
+                LogInfo("[6/7] 创建 OPC UA 服务器...");
                 _server = new StandardServer();
-                _server.Start(_configuration);
+                LogSuccess("服务器实例已创建");
+
+                // 7. 启动服务器
+                LogInfo("[7/7] 启动 OPC UA 服务器...");
+                await _applicationInstance.Start(_server);
                 LogSuccess("OPC UA 服务器已启动");
 
-                // 5. 创建并初始化节点管理器
-                LogInfo("[5/5] 初始化节点管理器...");
+                // 8. 初始化节点管理器
+                LogInfo("初始化节点管理器...");
                 var serverInternal = _server as IServerInternal;
                 if (serverInternal == null)
                     throw new InvalidOperationException("无法获取 IServerInternal 接口");
@@ -132,7 +159,7 @@ namespace OPC.Services
         }
 
         /// <summary>
-        /// 获取所有节点数据（用于 REST API）
+        /// 获取所有节点数据
         /// </summary>
         public Dictionary<string, object> GetAllNodeData()
         {
@@ -140,7 +167,7 @@ namespace OPC.Services
         }
 
         /// <summary>
-        /// 按分类获取节点数据（用于 REST API）
+        /// 按分类获取节点数据
         /// </summary>
         public Dictionary<string, object> GetNodeDataByCategory(string category)
         {
@@ -168,14 +195,12 @@ namespace OPC.Services
         {
             try
             {
-                // 创建基础目录
                 if (!Directory.Exists(basePath))
                 {
                     Directory.CreateDirectory(basePath);
-                    LogInfo($"  ✓ 创建基础目录: {basePath}");
+                    LogInfo($"  ✓ 创建基础目录");
                 }
 
-                // 创建子目录
                 string[] subdirs = { "trusted", "issuers", "rejected" };
                 foreach (var subdir in subdirs)
                 {
@@ -183,7 +208,7 @@ namespace OPC.Services
                     if (!Directory.Exists(fullPath))
                     {
                         Directory.CreateDirectory(fullPath);
-                        LogInfo($"  ✓ 创建子目录: {fullPath}");
+                        LogInfo($"  ✓ 创建子目录: {subdir}");
                     }
                 }
 
@@ -192,26 +217,31 @@ namespace OPC.Services
             catch (Exception ex)
             {
                 LogError($"创建目录失败: {basePath}", ex);
-                throw new InvalidOperationException($"无法创建证书目录: {ex.Message}", ex);
+                throw;
             }
         }
 
         /// <summary>
-        /// 创建应用配置 - 完全兼容 OPC UA 1.5.377.21
+        /// 创建应用配置
+        /// ✅ 关键：与示例中相同的配置方式
         /// </summary>
         private ApplicationConfiguration CreateApplicationConfiguration()
         {
-            // 仅使用 OPC UA 1.5 版本支持的配置选项
+            const string certificateBasePath = "OPC.Certificates";
+
             var config = new ApplicationConfiguration
             {
                 ApplicationName = "OPC UA 数据服务器",
                 ApplicationType = ApplicationType.Server,
-                ApplicationUri = "urn:localhost:OpcUaServer",
-                ProductUri = "https://example.com/OpcUaServer",
+                ApplicationUri = $"urn:{System.Net.Dns.GetHostName()}:OpcUaServer",
+                ProductUri = "http://opcfoundation.org/Quickstart/ReferenceServer/v1.04",
 
                 ServerConfiguration = new ServerConfiguration
                 {
                     BaseAddresses = new StringCollection { "opc.tcp://0.0.0.0:4840" },
+                    MinRequestThreadCount = 5,
+                    MaxRequestThreadCount = 100,
+                    MaxQueuedRequestCount = 200,
                     DiagnosticsEnabled = true,
                     MaxSessionCount = 100,
                     MinSessionTimeout = 10000,
@@ -223,13 +253,33 @@ namespace OPC.Services
 
                 SecurityConfiguration = new SecurityConfiguration
                 {
+                    // ✅ 关键：使用与示例相同的方式配置证书标识符
                     ApplicationCertificate = new CertificateIdentifier
                     {
                         StoreType = CertificateStoreType.Directory,
-                        StorePath = "OPC.Certificates",
-                        SubjectName = "CN=OpcUaServer"
+                        StorePath = Path.GetFullPath(certificateBasePath),
+                        // SubjectName格式必须正确
+                        SubjectName = Utils.Format("CN={0}, DC={1}", "OpcUaServer", System.Net.Dns.GetHostName())
                     },
-                    // 注意：OPC UA 1.5 版本可能不支持下面的配置，但让我们尝试
+
+                    TrustedIssuerCertificates = new CertificateTrustList
+                    {
+                        StoreType = CertificateStoreType.Directory,
+                        StorePath = Path.GetFullPath(Path.Combine(certificateBasePath, "issuers"))
+                    },
+
+                    TrustedPeerCertificates = new CertificateTrustList
+                    {
+                        StoreType = CertificateStoreType.Directory,
+                        StorePath = Path.GetFullPath(Path.Combine(certificateBasePath, "trusted"))
+                    },
+
+                    RejectedCertificateStore = new CertificateTrustList
+                    {
+                        StoreType = CertificateStoreType.Directory,
+                        StorePath = Path.GetFullPath(Path.Combine(certificateBasePath, "rejected"))
+                    },
+
                     AutoAcceptUntrustedCertificates = true,
                     AddAppCertToTrustedStore = true,
                     SendCertificateChain = true,
@@ -250,6 +300,8 @@ namespace OPC.Services
                 {
                     DefaultSessionTimeout = 60000,
                 },
+
+                TraceConfiguration = new TraceConfiguration()
             };
 
             return config;
@@ -274,20 +326,16 @@ namespace OPC.Services
 
                         if (_nodeManager != null)
                         {
-                            // 更新温度数据
                             _nodeManager.UpdateNodeValue("T01", Math.Round(25.5 + random.NextDouble() * 2, 2));
                             _nodeManager.UpdateNodeValue("T02", Math.Round(26.3 + random.NextDouble() * 2, 2));
                             _nodeManager.UpdateNodeValue("T03", Math.Round(24.8 + random.NextDouble() * 2, 2));
 
-                            // 更新压力数据
                             _nodeManager.UpdateNodeValue("P01", Math.Round(101.3 + random.NextDouble() * 1, 2));
                             _nodeManager.UpdateNodeValue("P02", Math.Round(102.5 + random.NextDouble() * 1, 2));
 
-                            // 更新流量数据
                             _nodeManager.UpdateNodeValue("F01", Math.Round(150.0 + random.NextDouble() * 50, 2));
                             _nodeManager.UpdateNodeValue("F02", Math.Round(200.0 + random.NextDouble() * 50, 2));
 
-                            // 更新状态数据
                             _nodeManager.UpdateNodeValue("S01", cycle % 2 == 0);
                             _nodeManager.UpdateNodeValue("S02", cycle % 3 == 0);
                         }
@@ -327,9 +375,11 @@ namespace OPC.Services
             Console.WriteLine("║  📊 Swagger:      http://localhost:5001/swagger               ║");
             Console.WriteLine("║                                                                ║");
             Console.WriteLine("║  📂 证书目录:     ./OPC.Certificates/                         ║");
-            Console.WriteLine("║     ├── trusted/   (受信任的根证书)                             ║");
-            Console.WriteLine("║     ├── issuers/   (受信任的签发者)                             ║");
-            Console.WriteLine("║     └── rejected/  (拒绝的证书)                                ║");
+            Console.WriteLine("║     ├── OpcUaServer.cer   (应用证书)                           ║");
+            Console.WriteLine("║     ├── OpcUaServer.pfx   (私钥)                              ║");
+            Console.WriteLine("║     ├── trusted/          (受信任的根证书)                     ║");
+            Console.WriteLine("║     ├── issuers/          (受信任的签发者)                     ║");
+            Console.WriteLine("║     └── rejected/         (拒绝的证书)                        ║");
             Console.WriteLine("║                                                                ║");
             Console.WriteLine("║  📊 数据点位：12 个                                             ║");
             Console.WriteLine("║     - 温度: T01, T02, T03                                      ║");
@@ -402,7 +452,7 @@ namespace OPC.Services
     }
 
     /// <summary>
-    /// OPC 节点管理器 - 负责创建和管理 OPC UA 节点
+    /// OPC 节点管理器
     /// </summary>
     public class OpcNodeManager : INodeIdFactory
     {
@@ -429,9 +479,6 @@ namespace OPC.Services
             }
         }
 
-        /// <summary>
-        /// 创建 OPC UA 地址空间
-        /// </summary>
         private void CreateAddressSpace()
         {
             try
@@ -459,9 +506,6 @@ namespace OPC.Services
             }
         }
 
-        /// <summary>
-        /// 创建分类和变量节点
-        /// </summary>
         private void CreateCategory(FolderState parent, string categoryName, (string id, string name)[] variables)
         {
             try
@@ -507,9 +551,6 @@ namespace OPC.Services
             }
         }
 
-        /// <summary>
-        /// 更新节点值
-        /// </summary>
         public void UpdateNodeValue(string nodeId, object value)
         {
             try
@@ -530,9 +571,6 @@ namespace OPC.Services
             }
         }
 
-        /// <summary>
-        /// 获取所有节点数据
-        /// </summary>
         public Dictionary<string, object> GetAllNodeData()
         {
             var result = new Dictionary<string, object>();
@@ -549,9 +587,6 @@ namespace OPC.Services
             return result;
         }
 
-        /// <summary>
-        /// 按分类获取节点数据
-        /// </summary>
         public Dictionary<string, object> GetNodeDataByCategory(string category)
         {
             var result = new Dictionary<string, object>();

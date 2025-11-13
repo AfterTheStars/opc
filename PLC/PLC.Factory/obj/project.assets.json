@@ -1,0 +1,203 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PLC.BaseDriver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PLC.BaseDriver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PLC.BaseDriver.dll": {}
+        }
+      },
+      "PLC.FinsUDP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PLC.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PLC.FinsUDP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PLC.FinsUDP.dll": {}
+        }
+      },
+      "PLC.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PLC.BaseDriver": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PLC.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PLC.Interface.dll": {}
+        }
+      },
+      "PLC.KvHost/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PLC.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PLC.KvHost.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PLC.KvHost.dll": {}
+        }
+      },
+      "PLC.MC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PLC.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PLC.MC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PLC.MC.dll": {}
+        }
+      },
+      "PLC.ModbusTcp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PLC.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PLC.ModbusTcp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PLC.ModbusTcp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLC.BaseDriver/1.0.0": {
+      "type": "project",
+      "path": "../Driver/BaseDriver/BaseDriver.csproj",
+      "msbuildProject": "../Driver/BaseDriver/BaseDriver.csproj"
+    },
+    "PLC.FinsUDP/1.0.0": {
+      "type": "project",
+      "path": "../Driver/FinsUDP/FinsUDP.csproj",
+      "msbuildProject": "../Driver/FinsUDP/FinsUDP.csproj"
+    },
+    "PLC.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PLC.Interface/PLC.Interface.csproj",
+      "msbuildProject": "../PLC.Interface/PLC.Interface.csproj"
+    },
+    "PLC.KvHost/1.0.0": {
+      "type": "project",
+      "path": "../Driver/KvHost/KvHost.csproj",
+      "msbuildProject": "../Driver/KvHost/KvHost.csproj"
+    },
+    "PLC.MC/1.0.0": {
+      "type": "project",
+      "path": "../Driver/MC/MC.csproj",
+      "msbuildProject": "../Driver/MC/MC.csproj"
+    },
+    "PLC.ModbusTcp/1.0.0": {
+      "type": "project",
+      "path": "../Driver/ModbusTcp/ModbusTcp.csproj",
+      "msbuildProject": "../Driver/ModbusTcp/ModbusTcp.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PLC.FinsUDP >= 1.0.0",
+      "PLC.Interface >= 1.0.0",
+      "PLC.KvHost >= 1.0.0",
+      "PLC.MC >= 1.0.0",
+      "PLC.ModbusTcp >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Factory\\PLC.Factory.csproj",
+      "projectName": "PLC.Factory",
+      "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Factory\\PLC.Factory.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Factory\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\FinsUDP\\FinsUDP.csproj": {
+              "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\FinsUDP\\FinsUDP.csproj"
+            },
+            "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\KvHost\\KvHost.csproj": {
+              "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\KvHost\\KvHost.csproj"
+            },
+            "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\MC\\MC.csproj": {
+              "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\MC\\MC.csproj"
+            },
+            "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\ModbusTcp\\ModbusTcp.csproj": {
+              "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\ModbusTcp\\ModbusTcp.csproj"
+            },
+            "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Interface\\PLC.Interface.csproj": {
+              "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Interface\\PLC.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

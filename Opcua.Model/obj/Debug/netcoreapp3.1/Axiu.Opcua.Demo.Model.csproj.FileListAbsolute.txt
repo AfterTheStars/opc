@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.deps.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.pdb

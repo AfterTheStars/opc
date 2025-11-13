@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.deps.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Common.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Common.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\bin\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Model.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Service\obj\Debug\netcoreapp3.1\Axiu.Opcua.Demo.Service.pdb

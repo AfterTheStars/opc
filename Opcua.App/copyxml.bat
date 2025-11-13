@@ -1,0 +1,1 @@
+copy E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\Nodes.xml E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1

@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x86</Platforms>
+    <RootNamespace>Opcua.App</RootNamespace>
+    <AssemblyName>Opcua.App</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+    <OutputPath>D:\CET\Common\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Nodes.xml" />
+    <None Remove="Nodes2.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="Nodes.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Opcua.Service\Opcua.Service.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,415 @@
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.App.exe
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.App.deps.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.App.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.App.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.Common.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.Service.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.Service.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.Common.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\obj\Debug\netcoreapp3.1\Opcua.App.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\KvHost.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Entry\bin\Debug\netcoreapp3.1\KvHost.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.exe
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.deps.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\KvHost.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\KvHost.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.genruntimeconfig.cache
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.exe
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.deps.json
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.json
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.dev.json
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csprojAssemblyReference.cache
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfoInputs.cache
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfo.cs
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CoreCompileInputs.cache
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CopyComplete
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.genruntimeconfig.cache
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.Factory.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.Interface.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.Tcp.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.Factory.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.Interface.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.Tcp.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.BaseDriver.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.KvHost.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.BaseDriver.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.KvHost.pdb
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.ModbusTcp.dll
+F:\pangshenglin\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\PLC.ModbusTcp.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.exe
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.deps.json
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.json
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.dev.json
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.AssemblyReference.cache
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfoInputs.cache
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfo.cs
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CoreCompileInputs.cache
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.genruntimeconfig.cache
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.Up2Date
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.exe
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.deps.json
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.json
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.dev.json
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.pdb
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.pdb
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.pdb
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.AssemblyReference.cache
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfoInputs.cache
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfo.cs
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CoreCompileInputs.cache
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CopyComplete
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.pdb
+D:\Code\Opcua.Server\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.genruntimeconfig.cache
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.exe
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.deps.json
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.json
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.runtimeconfig.dev.json
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.App.pdb
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Client.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Configuration.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Core.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Client.Common.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Gds.Server.Common.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opc.Ua.Server.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Service.pdb
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Common.pdb
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.AssemblyReference.cache
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.GeneratedMSBuildEditorConfig.editorconfig
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfoInputs.cache
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.AssemblyInfo.cs
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CoreCompileInputs.cache
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.csproj.CopyComplete
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.pdb
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.App\obj\Debug\netcoreapp3.1\Opcua.App.genruntimeconfig.cache

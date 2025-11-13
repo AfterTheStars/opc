@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+	<mac0>
+		<A>
+			<BasketIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketIn>
+			<LoadBasket>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</LoadBasket>
+			<BasketOut>
+				<BasketNo DataType="String" Length="0"></BasketNo>
+				<BasketNo1 DataType="String" Length="0"></BasketNo1>
+				<BasketNo2 DataType="String" Length="0"></BasketNo2>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn1 DataType="String" Length="0"></BoatSn1>
+				<BoatSn2 DataType="String" Length="0"></BoatSn2>
+				<MacNo DataType="Uint16" Length="0"></MacNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketOut>
+			<BoxIn>
+				<Batch DataType="String" Length="0"></Batch>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+			</BoxIn>
+			<BoxOut>
+				<Bin DataType="Uint16" Length="0"></Bin>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BoxOut>
+			<LoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn DataType="String" Length="4"></BoatSn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFIDs DataType="String" Length="4"></RFIDs>
+				<Sorts DataType="String" Length="4"></Sorts>
+				<WaferIDS DataType="String" Length="120"></WaferIDS>
+			</LoadBoat>
+			<UnLoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+			</UnLoadBoat>
+			<WaferIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferIn>
+			<WaferOut>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferOut>
+			<WaferPass>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferPass>
+
+
+		</A>
+		<B>
+			<LoadBasket>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</LoadBasket>
+			<BasketIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketIn>
+			<BasketOut>
+				<BasketNo DataType="String" Length="0"></BasketNo>
+				<BasketNo1 DataType="String" Length="0"></BasketNo1>
+				<BasketNo2 DataType="String" Length="0"></BasketNo2>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn1 DataType="String" Length="0"></BoatSn1>
+				<BoatSn2 DataType="String" Length="0"></BoatSn2>
+				<MacNo DataType="Uint16" Length="0"></MacNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketOut>
+			<BoxIn>
+				<Batch DataType="String" Length="0"></Batch>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+			</BoxIn>
+			<BoxOut>
+				<Bin DataType="Uint16" Length="0"></Bin>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BoxOut>
+			<LoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn DataType="String" Length="4"></BoatSn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFIDs DataType="String" Length="4"></RFIDs>
+				<Sorts DataType="String" Length="4"></Sorts>
+				<WaferIDS DataType="String" Length="120"></WaferIDS>
+			</LoadBoat>
+			<UnLoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+			</UnLoadBoat>
+			<WaferIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferIn>
+			<WaferOut>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferOut>
+			<WaferPass>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferPass>
+
+
+		</B>
+		<C>
+			<LoadBasket>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</LoadBasket>
+			<BasketIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketIn>
+			<BasketOut>
+				<BasketNo DataType="String" Length="0"></BasketNo>
+				<BasketNo1 DataType="String" Length="0"></BasketNo1>
+				<BasketNo2 DataType="String" Length="0"></BasketNo2>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn1 DataType="String" Length="0"></BoatSn1>
+				<BoatSn2 DataType="String" Length="0"></BoatSn2>
+				<MacNo DataType="Uint16" Length="0"></MacNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketOut>
+			<BoxIn>
+				<Batch DataType="String" Length="0"></Batch>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+			</BoxIn>
+			<BoxOut>
+				<Bin DataType="Uint16" Length="0"></Bin>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BoxOut>
+			<LoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn DataType="String" Length="4"></BoatSn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFIDs DataType="String" Length="4"></RFIDs>
+				<Sorts DataType="String" Length="4"></Sorts>
+				<WaferIDS DataType="String" Length="120"></WaferIDS>
+			</LoadBoat>
+			<UnLoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+			</UnLoadBoat>
+			<WaferIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferIn>
+			<WaferOut>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferOut>
+			<WaferPass>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferPass>
+
+
+		</C>
+		<D>
+			<LoadBasket>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</LoadBasket>
+			<BasketIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketIn>
+			<BasketOut>
+				<BasketNo DataType="String" Length="0"></BasketNo>
+				<BasketNo1 DataType="String" Length="0"></BasketNo1>
+				<BasketNo2 DataType="String" Length="0"></BasketNo2>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn1 DataType="String" Length="0"></BoatSn1>
+				<BoatSn2 DataType="String" Length="0"></BoatSn2>
+				<MacNo DataType="Uint16" Length="0"></MacNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketOut>
+			<BoxIn>
+				<Batch DataType="String" Length="0"></Batch>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+			</BoxIn>
+			<BoxOut>
+				<Bin DataType="Uint16" Length="0"></Bin>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BoxOut>
+			<LoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn DataType="String" Length="4"></BoatSn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFIDs DataType="String" Length="4"></RFIDs>
+				<Sorts DataType="String" Length="4"></Sorts>
+				<WaferIDS DataType="String" Length="120"></WaferIDS>
+			</LoadBoat>
+			<UnLoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+			</UnLoadBoat>
+			<WaferIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferIn>
+			<WaferOut>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferOut>
+			<WaferPass>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferPass>
+
+
+		</D>
+		<E>
+			<LoadBasket>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</LoadBasket>
+			<BasketIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketIn>
+			<BasketOut>
+				<BasketNo DataType="String" Length="0"></BasketNo>
+				<BasketNo1 DataType="String" Length="0"></BasketNo1>
+				<BasketNo2 DataType="String" Length="0"></BasketNo2>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn1 DataType="String" Length="0"></BoatSn1>
+				<BoatSn2 DataType="String" Length="0"></BoatSn2>
+				<MacNo DataType="Uint16" Length="0"></MacNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketOut>
+			<BoxIn>
+				<Batch DataType="String" Length="0"></Batch>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+			</BoxIn>
+			<BoxOut>
+				<Bin DataType="Uint16" Length="0"></Bin>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BoxOut>
+			<LoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn DataType="String" Length="4"></BoatSn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFIDs DataType="String" Length="4"></RFIDs>
+				<Sorts DataType="String" Length="4"></Sorts>
+				<WaferIDS DataType="String" Length="120"></WaferIDS>
+			</LoadBoat>
+			<UnLoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+			</UnLoadBoat>
+			<WaferIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferIn>
+			<WaferOut>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferOut>
+			<WaferPass>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferPass>
+
+
+		</E>
+		<F>
+			<LoadBasket>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</LoadBasket>
+			<BasketIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<ResultCode DataType="Uint16" Length="0"></ResultCode>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketIn>
+			<BasketOut>
+				<BasketNo DataType="String" Length="0"></BasketNo>
+				<BasketNo1 DataType="String" Length="0"></BasketNo1>
+				<BasketNo2 DataType="String" Length="0"></BasketNo2>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn1 DataType="String" Length="0"></BoatSn1>
+				<BoatSn2 DataType="String" Length="0"></BoatSn2>
+				<MacNo DataType="Uint16" Length="0"></MacNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<RFID1 DataType="String" Length="0"></RFID1>
+				<RFID2 DataType="String" Length="0"></RFID2>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BasketOut>
+			<BoxIn>
+				<Batch DataType="String" Length="0"></Batch>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+			</BoxIn>
+			<BoxOut>
+				<Bin DataType="Uint16" Length="0"></Bin>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFID DataType="String" Length="0"></RFID>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</BoxOut>
+			<LoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<BoatSn DataType="String" Length="4"></BoatSn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<RFIDs DataType="String" Length="4"></RFIDs>
+				<Sorts DataType="String" Length="4"></Sorts>
+				<WaferIDS DataType="String" Length="120"></WaferIDS>
+			</LoadBoat>
+			<UnLoadBoat>
+				<BoatNo DataType="String" Length="0"></BoatNo>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<TubeNo DataType="Uint16" Length="0"></TubeNo>
+			</UnLoadBoat>
+			<WaferIn>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferIn>
+			<WaferOut>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferOut>
+			<WaferPass>
+				<Request DataType="Uint32" Length="0"></Request>
+				<Response DataType="Uint32" Length="0"></Response>
+				<WaferIDs DataType="String" Length="120"></WaferIDs>
+			</WaferPass>
+
+
+		</F>
+	</mac0>
+	 
+</root>
+
+ 
+

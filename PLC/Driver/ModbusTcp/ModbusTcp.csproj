@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>PLC.ModbusTcp</AssemblyName>
+    <RootNamespace>PLC.ModbusTcp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ModbusTcpDevice_old.cs" />
+    <Compile Remove="ModbusTcpManage_old.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PLC.Interface\PLC.Interface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ModbusTcp">
+      <HintPath>bin\ModbusTcp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

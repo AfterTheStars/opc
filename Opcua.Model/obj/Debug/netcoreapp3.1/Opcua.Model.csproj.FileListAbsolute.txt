@@ -1,0 +1,53 @@
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\bin\Debug\netcoreapp3.1\Opcua.Model.deps.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Opcua.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Axiu.Opcua.Demo.Model\obj\Debug\netcoreapp3.1\Opcua.Model.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.deps.json
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.dll
+C:\Users\Administrator\Desktop\AxiuOpcua.ServerDemo-master (1)\AxiuOpcua.ServerDemo-master\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.pdb
+F:\pangshenglin\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.deps.json
+F:\pangshenglin\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+F:\pangshenglin\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+F:\pangshenglin\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csprojAssemblyReference.cache
+F:\pangshenglin\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfoInputs.cache
+F:\pangshenglin\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfo.cs
+F:\pangshenglin\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csproj.CoreCompileInputs.cache
+F:\pangshenglin\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.dll
+F:\pangshenglin\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.deps.json
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfoInputs.cache
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfo.cs
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csproj.CoreCompileInputs.cache
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.dll
+D:\MyWork\src\通讯协议\Opc\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.pdb
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.deps.json
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfoInputs.cache
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfo.cs
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csproj.CoreCompileInputs.cache
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.dll
+D:\Code\Opcua.Server\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.pdb
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.deps.json
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\bin\Debug\netcoreapp3.1\Opcua.Model.pdb
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfoInputs.cache
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.AssemblyInfo.cs
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.csproj.CoreCompileInputs.cache
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.dll
+E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Model\obj\Debug\netcoreapp3.1\Opcua.Model.pdb

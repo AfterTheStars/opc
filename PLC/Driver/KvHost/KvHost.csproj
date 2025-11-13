@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>PLC.KvHost</AssemblyName>
+    <RootNamespace>PLC.KvHost</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Device.cs" />
+    <Compile Remove="SocketServer.cs" />
+    <Compile Remove="SoketClient.cs" />
+    <Compile Remove="TcpClient.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PLC.Interface\PLC.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

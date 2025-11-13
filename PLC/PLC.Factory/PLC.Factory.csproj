@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Driver\FinsUDP\FinsUDP.csproj" />
+    <ProjectReference Include="..\Driver\KvHost\KvHost.csproj" />
+    <ProjectReference Include="..\Driver\MC\MC.csproj" />
+    <ProjectReference Include="..\Driver\ModbusTcp\ModbusTcp.csproj" />
+    <ProjectReference Include="..\PLC.Interface\PLC.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

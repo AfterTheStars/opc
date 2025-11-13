@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PLC.Factory
+build_property.ProjectDir = D:\MyWork\src\通讯协议\Opc\Opcua.Server\PLC\PLC.Factory\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

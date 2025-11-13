@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PLC.BaseDriver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PLC.BaseDriver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PLC.BaseDriver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLC.BaseDriver/1.0.0": {
+      "type": "project",
+      "path": "../Driver/BaseDriver/BaseDriver.csproj",
+      "msbuildProject": "../Driver/BaseDriver/BaseDriver.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PLC.BaseDriver >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Interface\\PLC.Interface.csproj",
+      "projectName": "PLC.Interface",
+      "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Interface\\PLC.Interface.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\PLC.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\BaseDriver\\BaseDriver.csproj": {
+              "projectPath": "D:\\MyWork\\src\\通讯协议\\Opc\\Opcua.Server\\PLC\\Driver\\BaseDriver\\BaseDriver.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

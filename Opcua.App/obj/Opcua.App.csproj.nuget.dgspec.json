@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.App\\Opcua.App.csproj": {}
+    "E:\\SC\\个人资料\\opc\\Opcua.App\\Opcua.App.csproj": {}
   },
   "projects": {
-    "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.App\\Opcua.App.csproj": {
+    "E:\\SC\\个人资料\\opc\\Opcua.App\\Opcua.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.App\\Opcua.App.csproj",
+        "projectUniqueName": "E:\\SC\\个人资料\\opc\\Opcua.App\\Opcua.App.csproj",
         "projectName": "Opcua.App",
-        "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.App\\Opcua.App.csproj",
+        "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.App\\Opcua.App.csproj",
         "packagesPath": "C:\\Users\\www90\\.nuget\\packages\\",
-        "outputPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.App\\obj\\",
+        "outputPath": "E:\\SC\\个人资料\\opc\\Opcua.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\www90\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj": {
-                "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj"
+              "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj": {
+                "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj": {
+    "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj",
+        "projectUniqueName": "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj",
         "projectName": "Opcua.Common",
-        "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj",
+        "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj",
         "packagesPath": "C:\\Users\\www90\\.nuget\\packages\\",
-        "outputPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\obj\\",
+        "outputPath": "E:\\SC\\个人资料\\opc\\Opcua.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\www90\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj": {
+    "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj",
+        "projectUniqueName": "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj",
         "projectName": "Opcua.Model",
-        "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj",
+        "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj",
         "packagesPath": "C:\\Users\\www90\\.nuget\\packages\\",
-        "outputPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\obj\\",
+        "outputPath": "E:\\SC\\个人资料\\opc\\Opcua.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\www90\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -185,14 +185,14 @@
         }
       }
     },
-    "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj": {
+    "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj",
+        "projectUniqueName": "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj",
         "projectName": "Opcua.Service",
-        "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj",
+        "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj",
         "packagesPath": "C:\\Users\\www90\\.nuget\\packages\\",
-        "outputPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\obj\\",
+        "outputPath": "E:\\SC\\个人资料\\opc\\Opcua.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\www90\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,11 +209,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj": {
-                "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj"
+              "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj": {
+                "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj"
               },
-              "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj": {
-                "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj"
+              "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj": {
+                "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj"
               }
             }
           }

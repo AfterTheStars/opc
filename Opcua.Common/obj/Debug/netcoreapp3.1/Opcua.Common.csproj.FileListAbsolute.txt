@@ -54,3 +54,14 @@ E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Common\obj\Debug\netcoreapp3.
 E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.csproj.CoreCompileInputs.cache
 E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.dll
 E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.pdb
+E:\SC\个人资料\opc\Opcua.Common\bin\Debug\netcoreapp3.1\Opcua.Common.deps.json
+E:\SC\个人资料\opc\Opcua.Common\bin\Debug\netcoreapp3.1\Opcua.Common.dll
+E:\SC\个人资料\opc\Opcua.Common\bin\Debug\netcoreapp3.1\Opcua.Common.pdb
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.csproj.AssemblyReference.cache
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.AssemblyInfoInputs.cache
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.AssemblyInfo.cs
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.csproj.CoreCompileInputs.cache
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.sourcelink.json
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.dll
+E:\SC\个人资料\opc\Opcua.Common\obj\Debug\netcoreapp3.1\Opcua.Common.pdb

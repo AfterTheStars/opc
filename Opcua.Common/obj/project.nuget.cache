@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xsmEXDYKk7murPrBvmEyhUl116qPpguQEDdemOzDQTxJxarvthj0Uhh3sf0EOahB/0mh8xmEywD30hmxpq7QAQ==",
+  "dgSpecHash": "fr+Yv8DPhgGgnRjtc5x+c4At8NCB2nrS+VJ5BMGEohuURGNiMLf94ezhxWkdeLv82QXv5YiwNACY/HyGzGgVpw==",
   "success": true,
-  "projectFilePath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj",
+  "projectFilePath": "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\www90\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

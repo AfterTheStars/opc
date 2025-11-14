@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = Opcua.Service
-build_property.ProjectDir = E:\SC\内部资料\OPC服务端\Opcua.Server\Opcua.Service\
+build_property.ProjectDir = E:\SC\个人资料\opc\Opcua.Service\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

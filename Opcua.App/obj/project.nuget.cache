@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zp1lTXGCzBwRYrJ+YYt/db9yLE9kqnDQRrr1HIFthsXNa5GsijCCjQZIGhFYhCeXns3upJKq0Z3muHGHQgaDlA==",
+  "dgSpecHash": "8YbZu97ewPTKXFhFR489E4ivWbXsgD+WOlZ3crMEpuclJhfdid3+Nj/Ln9hqHfIIQAl4o1foO/p86X3/AzeUlg==",
   "success": true,
-  "projectFilePath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.App\\Opcua.App.csproj",
+  "projectFilePath": "E:\\SC\\个人资料\\opc\\Opcua.App\\Opcua.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\www90\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\www90\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.0\\microsoft.aspnetcore.hosting.2.2.0.nupkg.sha512",

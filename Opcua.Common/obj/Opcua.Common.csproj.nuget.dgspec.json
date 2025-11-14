@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj": {}
+    "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj": {}
   },
   "projects": {
-    "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj": {
+    "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj",
+        "projectUniqueName": "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj",
         "projectName": "Opcua.Common",
-        "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj",
+        "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj",
         "packagesPath": "C:\\Users\\www90\\.nuget\\packages\\",
-        "outputPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\obj\\",
+        "outputPath": "E:\\SC\\个人资料\\opc\\Opcua.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\www90\\AppData\\Roaming\\NuGet\\NuGet.Config",

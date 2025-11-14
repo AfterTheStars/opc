@@ -5625,11 +5625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj",
+      "projectUniqueName": "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj",
       "projectName": "Opcua.Service",
-      "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj",
+      "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj",
       "packagesPath": "C:\\Users\\www90\\.nuget\\packages\\",
-      "outputPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\obj\\",
+      "outputPath": "E:\\SC\\个人资料\\opc\\Opcua.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\www90\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5646,11 +5646,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj": {
-              "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Common\\Opcua.Common.csproj"
+            "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj": {
+              "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Common\\Opcua.Common.csproj"
             },
-            "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj": {
-              "projectPath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj"
+            "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj": {
+              "projectPath": "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj"
             }
           }
         }
@@ -5689,5 +5689,27 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "包 \"OPCFoundation.NetStandard.Opc.Ua\" 1.4.362.42 具有已知的 中 严重性漏洞，https://github.com/advisories/GHSA-7vfh-cqpc-4267",
+      "libraryId": "OPCFoundation.NetStandard.Opc.Ua",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "包 \"OPCFoundation.NetStandard.Opc.Ua\" 1.4.362.42 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-qm9f-c3v9-wphv",
+      "libraryId": "OPCFoundation.NetStandard.Opc.Ua",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NzZt8/J/qQLBKpddFz8ygD/KVSHsPyDFpmXSfTzvkaupZTIqfwgGWZzfvS/9WUEzg5R6plSXbK53JIzWhLmJBA==",
+  "dgSpecHash": "+2tZQLRVb6Humhb0j1p07AQMO+oTmewHpJf6xqGgaUn7Sw4Q0a3rGWVuawu+q37oJYvnm7MAvki6BKh0rfCWzA==",
   "success": true,
-  "projectFilePath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Model\\Opcua.Model.csproj",
+  "projectFilePath": "E:\\SC\\个人资料\\opc\\Opcua.Model\\Opcua.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

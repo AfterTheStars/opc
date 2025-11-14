@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1+c0Ujy6IhuRzmk1gcjqHTmY5D9OoPwsacwdIHVN//R+4omtCdNFLMOHDWVl27NEgBnSdXCx41+tr61HPw8og==",
+  "dgSpecHash": "bssJ2GpZ4vbpOzLiCRNa8PxsK35bsEA1kLAaK6jsKS38LMJmvyClfbq+7MeUuNeaOw+K7X3MO8J1bpjy338uIQ==",
   "success": true,
-  "projectFilePath": "E:\\SC\\内部资料\\OPC服务端\\Opcua.Server\\Opcua.Service\\Opcua.Service.csproj",
+  "projectFilePath": "E:\\SC\\个人资料\\opc\\Opcua.Service\\Opcua.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\www90\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\www90\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.0\\microsoft.aspnetcore.hosting.2.2.0.nupkg.sha512",
@@ -116,5 +116,26 @@
     "C:\\Users\\www90\\.nuget\\packages\\system.threading.threadpool\\4.3.0\\system.threading.threadpool.4.3.0.nupkg.sha512",
     "C:\\Users\\www90\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "包 \"OPCFoundation.NetStandard.Opc.Ua\" 1.4.362.42 具有已知的 中 严重性漏洞，https://github.com/advisories/GHSA-7vfh-cqpc-4267",
+      "libraryId": "OPCFoundation.NetStandard.Opc.Ua",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "包 \"OPCFoundation.NetStandard.Opc.Ua\" 1.4.362.42 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-qm9f-c3v9-wphv",
+      "libraryId": "OPCFoundation.NetStandard.Opc.Ua",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
